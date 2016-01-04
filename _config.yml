@@ -1,0 +1,28 @@
+name: Jowi Taylor
+favicon: null
+layout_spectrum: 0.4341655650641769
+typography_spectrum: 0.5169100959319621
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.55787941114977
+  lightness: 0.2230023725423962
+  saturation: 0.8873433384578675
+  rhythmicContrast: 0.22684541484341025
+purpose: []
